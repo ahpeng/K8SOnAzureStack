@@ -1,5 +1,5 @@
-Title         : 在中国区Azure Stack上部署Kubernetes
-Author        : 盆盆
+Title:在中国区Azure Stack上部署Kubernetes
+Author:盆盆
 
 [TITLE]
 
@@ -11,6 +11,6 @@ Azure Stack是我们实现混合云DevOps的重要利器，而要实现DevOps，
 
 ![华来四]
 
-[华来四]: images/-.jpg "华来四" { width:auto; max-width:90% }
+[华来四]: images/sysinternal.jpg "华来四" { width:auto; max-width:90% }
 
 [Azure Stack部署K8S]: https://mp.weixin.qq.com/s?__biz=MzA3NTM1MzE4Nw==&mid=2649617739&idx=1&sn=098a0566d90e79d150d724da5beae74d&chksm=87688847b01f01516e7ed0df98fb94b7e3def83d238dbedda47b6e0fe394b10f684a3b301e89#rd  "Azure Stack部署K8S"
