@@ -7,4 +7,4 @@ Azure Stack是我们实现混合云DevOps的重要利器，而要实现DevOps，
 
 ![Image of sysinternal](https://github.com/ahpeng/K8SOnAzureStack/blob/master/images/sysinternal.jpg)
 
-[Azure Stack部署K8S]: https://mp.weixin.qq.com/s?__biz=MzA3NTM1MzE4Nw==&mid=2649617739&idx=1&sn=098a0566d90e79d150d724da5beae74d&chksm=87688847b01f01516e7ed0df98fb94b7e3def83d238dbedda47b6e0fe394b10f684a3b301e89#rd  "Azure Stack部署K8S"
+[Azure Stack部署K8S]: https://mp.weixin.qq.com/s?__biz=MzA3NTM1MzE4Nw==&mid=2649617746&idx=1&sn=8d110646120244bbab6b55e252fc744e&chksm=8768885eb01f014824a130cb4148cd9c8648e20d155549a1d09df7d88b3dceeec64821ee09dd#rd  "Azure Stack部署K8S"
